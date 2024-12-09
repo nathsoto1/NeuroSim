@@ -48,7 +48,9 @@ cd lif-simulation
 Install the required Python libraries:
 
 pip install numpy matplotlib
+
 Contributions
+
 Contributions are welcome! Please fork this repository and submit a pull request.
 
 License
